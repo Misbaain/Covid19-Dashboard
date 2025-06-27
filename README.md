@@ -30,5 +30,5 @@ Kaggle
 * 🔍 **High-Level Metrics**: Death to recovery ratio, active rate, and more
 
 **5. Screenshot**
-(https://github.com/Misbaain/Covid19-Dashboard/blob/main/Dashboard%20img.png)
+![Dashboard Preview](https://github.com/Misbaain/Covid19-Dashboard/blob/main/Dashboard%20img.png)
 
