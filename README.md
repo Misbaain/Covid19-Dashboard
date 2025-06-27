@@ -15,6 +15,7 @@ This project is an interactive **COVID-19 Global Dashboard** developed for real-
 **3.Data Source**
 
 WHO (World Health Organization) COVID-19 Data
+
 Kaggle
 
 **4. Features / Highlights**
